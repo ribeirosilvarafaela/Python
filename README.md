@@ -1,6 +1,6 @@
 # Python Projects
 
-Este repositório contém uma coleção de projetos desenvolvidos em Python. Cada projeto representa uma aplicação ou script Python com uma finalidade específica. Você pode explorar os projetos disponíveis neste repositório para aprender, obter ideias ou usá-los como ponto de partida para seus próprios projetos.
+Este repositório contém uma coleção de projetos desenvolvidos em Python. Cada projeto representa uma aplicação ou script Python com uma finalidade específica. Scripts criados em estudos de caso ou imersões de cursos online, sendo em sua maioria, variações de outros projetos, com finalidade de aplicação prática de conhecimentos.
 
 ## Lista de Projetos
 
