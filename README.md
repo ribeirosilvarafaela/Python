@@ -6,7 +6,8 @@ Este repositório contém uma coleção de projetos desenvolvidos em Python. Cad
 
 Aqui está uma lista dos projetos disponíveis neste repositório:
 
-1. [Sistema Bancário Simples]: Um sistema bancário básico que permite depósitos, saques e exibição de extrato de uma conta bancária.
+
+1. [Sistema Bancário Simples](https://github.com/ribeirosilvarafaela/Python/blob/main/conta_bancaria.py): Um sistema bancário básico que permite depósitos, saques e exibição de extrato de uma conta bancária.
 
 ## Contribuições
 
